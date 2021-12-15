@@ -365,8 +365,8 @@ footer i:hover {
     }
 
     .form__box-item {
-        min-height: 460px;
-        max-width: 300px;
+        min-height: 400px;
+        max-width: 360px;
     }
 
     .item__1,.item__2,.item__3{
