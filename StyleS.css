@@ -49,7 +49,7 @@ main {
     color: white;
     font-family: 'Satisfy', cursive;
     box-shadow: -10px 10px rgb(29, 27, 48);
-    transition: all 1s;
+    transition: box-shadow, 1s;
 }
 
 
@@ -84,7 +84,7 @@ aside {
     background-color: rgb(43, 40, 70);
     color: white;
     box-shadow: -10px 10px rgb(29, 27, 48);
-    transition: all 1s;
+    transition: box-shadow, 1s;
 }
 
 .intro3 {
@@ -99,7 +99,7 @@ aside {
     background-color: rgb(43, 40, 70);
     color: white;
     box-shadow: -10px 10px rgb(29, 27, 48);
-    transition: all 1s;
+    transition: box-shadow, 1s;
     
 }
 
@@ -366,7 +366,7 @@ footer i:hover {
 
     .form__box-item {
         min-height: 400px;
-        max-width: 360px;
+        min-width: 360px;
     }
 
     .item__1,.item__2,.item__3{
